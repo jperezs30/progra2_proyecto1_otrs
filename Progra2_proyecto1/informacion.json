@@ -1,0 +1,116 @@
+[
+  {
+    "ticket": 1,
+    "nitUsuario": "548765K",
+    "problema": "Error en conexión base de datos",
+    "cola": "desarrollo"
+  },
+  {
+    "ticket": 2,
+    "nitUsuario": 2115453,
+    "problema": "Usuario bloqueado.",
+    "cola": "desarrollo"
+  },
+  {
+    "ticket": 3,
+    "nitUsuario": 2115453,
+    "problema": "No imprime",
+    "cola": "desarrollo"
+  },
+  {
+    "ticket": 4,
+    "nitUsuario": 6548522,
+    "problema": "Licencia Windows vencida.",
+    "cola": "mesa"
+  },
+  {
+    "ticket": 5,
+    "nitUsuario": 2115453,
+    "problema": "Crear usuario.",
+    "cola": "soporte"
+  },
+  {
+    "ticket": 6,
+    "nitUsuario": 2115453,
+    "problema": "Sin acceso a red.",
+    "cola": "mesa"
+  },
+  {
+    "ticket": 7,
+    "nitUsuario": 2115453,
+    "problema": "Archivo eliminado.",
+    "cola": "soporte"
+  },
+  {
+    "ticket": 8,
+    "nitUsuario": 6548522,
+    "problema": "Crear backup.",
+    "cola": "mesa"
+  },
+  {
+    "ticket": 9,
+    "nitUsuario": 2115453,
+    "problema": "Restaurar máquina.",
+    "cola": "mesa"
+  },
+  {
+    "ticket": 10,
+    "nitUsuario": "548765K",
+    "problema": "Limpiar máquina.",
+    "cola": "desarrollo"
+  },
+  {
+    "ticket": 11,
+    "nitUsuario": "548765K",
+    "problema": "Cambiar disco duro.",
+    "cola": "mesa"
+  },
+  {
+    "ticket": 12,
+    "nitUsuario": "548765K",
+    "problema": "Se perdieron datos.",
+    "cola": "mesa"
+  },
+  {
+    "ticket": 13,
+    "nitUsuario": 2115453,
+    "problema": "Cambiar contraseña.",
+    "cola": "desarrollo"
+  },
+  {
+    "ticket": 14,
+    "nitUsuario": "548765K",
+    "problema": "Asignar permisos.",
+    "cola": "desarrollo"
+  },
+  {
+    "ticket": 15,
+    "nitUsuario": "548765K",
+    "problema": "Eliminar usuario.",
+    "cola": "desarrollo"
+  },
+  {
+    "ticket": 16,
+    "nitUsuario": 2115453,
+    "problema": "No recibo correos electrónicos.",
+    "cola": "desarrollo"
+  },
+  {
+    "ticket": 17,
+    "nitUsuario": 2115453,
+    "problema": "Dar acceso a SAP.",
+    "cola": "soporte"
+  },
+  {
+    "ticket": 18,
+    "nitUsuario": "548765K",
+    "problema": "Cálculo de interés incorrecto.",
+    "cola": "desarrollo"
+  },
+  {
+    "ticket": 19,
+    "nitUsuario": "548765K",
+    "problema": "Agregar opción para imprimir.",
+    "cola": "desarrollo"
+  }
+]
